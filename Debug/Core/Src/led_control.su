@@ -1,0 +1,4 @@
+led_control.c:14:6:setAllClock	16	static
+led_control.c:21:6:clearAllClock	16	static
+led_control.c:30:6:setNumberOnClock	16	static
+led_control.c:55:6:clearNumberOnClock	16	static
